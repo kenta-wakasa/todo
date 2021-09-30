@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "470188290494",
+    "project_id": "todo-a3a69",
+    "storage_bucket": "todo-a3a69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470188290494:android:08652b9e257f9ead94c9ef",
+        "android_client_info": {
+          "package_name": "com.pressedkonbu.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470188290494-vhucti3sl1gr5quvbgebts64t4bce5m1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pressedkonbu.todo",
+            "certificate_hash": "3bec4d2d50eb9a939c3a0e36f8a4cdbd07b959c9"
+          }
+        },
+        {
+          "client_id": "470188290494-e1d5at56336o0manmj6qknj33odtp4s8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYiuEY1W2jKKJoyRQCta3BE8rwakQwbdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470188290494-e1d5at56336o0manmj6qknj33odtp4s8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "470188290494-bq5lsoge2cpqma9cm77o6dkf9kon03cj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pressedkonbu.todo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
